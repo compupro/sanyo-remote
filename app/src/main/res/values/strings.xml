@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sanyo TV Remote</string>
+    <string name="Caption">Caption</string>
+    <string name="CHup">CH+</string>
+    <string name="CHdown">CH-</string>
+    <string name="Display">Display</string>
+    <string name="Input">Input</string>
+    <string name="Menu">Menu</string>
+    <string name="Mute">Mute</string>
+    <string name="Power">Power</string>
+    <string name="Recall">Recall</string>
+    <string name="Reset">Reset</string>
+    <string name="Sleep">Sleep</string>
+    <string name="VOLup">VOL+</string>
+    <string name="VOLdown">VOL-</string>
+</resources>
